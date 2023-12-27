@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bonanza88jp-jitu.de-rse.org/sitemap.xml
